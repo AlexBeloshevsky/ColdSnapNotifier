@@ -1,0 +1,22 @@
+{
+  "name": "cold-snap-notifier",
+  "version": "1.0.0",
+  "description": "A script to notify about drier and colder weather to prevent chapped lips and nostrils.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "weather",
+    "notification",
+    "chapped-lips"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^10.0.1",
+    "nodemailer": "^6.9.16"
+  }
+}
