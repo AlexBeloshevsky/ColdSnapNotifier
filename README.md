@@ -1,0 +1,1 @@
+this project was created to run in the background and monitor the temperature and humidity levels and notify you when the weather gets colder and drier so you have time to moisturize before that happens.
